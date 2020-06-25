@@ -17,7 +17,7 @@ A list of organizational/productivity tools that I've found useful in my student
 - [Caard](https://carrd.co/) // Simple, free, fully responsive one-page sites for pretty much anything.\*
 - [RoamResearch](https://roamresearch.com/) // Simple, free, fully responsive one-page sites for pretty much anything. 
 - [Fantastical](https://flexibits.com/fantastical) // Current Calendar Application for Mac OS and IPhone.
-- [Grammarly](https://app.grammarly.com/) // Spell Checker  *A true hero for emails* {Free basic plan available}.\*
+- [Grammarly](https://app.grammarly.com/) // Spell Checker\*  *A true hero for emails*
 
 ## ToDo Lists
 - [Bear](https://bear.app/) // Bear is a beautiful, flexible writing app for crafting notes and prose.\*
