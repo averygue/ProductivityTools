@@ -12,11 +12,11 @@ A list of organizational/productivity tools that I've found useful in my student
 
 ## Current Favorites
 
-- [Notion](https://www.notion.so/) // Write, plan, collaborate, and get organized — all in one tool. \*
-- [Caard](https://carrd.co/) // Simple, free, fully responsive one-page sites for pretty much anything.\* *A great deal and super fast to use* 
-- [RoamResearch](https://roamresearch.com/) // Simple, free, fully responsive one-page sites for pretty much anything. Offers discounts for Students.
-- [Fantastical](https://flexibits.com/fantastical) // Current Calendar Application for Mac OS and IPhone.
-- [Grammarly](https://app.grammarly.com/) // Spell Checker\*  *A true hero for emails*
+- [Notion](https://www.notion.so/) // Write, plan, collaborate, and get organized — all in one tool.\*
+- [Caard](https://carrd.co/) // Simple, free, fully responsive one-page sites for pretty much anything.\* *A great deal and super fast to use.* 
+- [RoamResearch](https://roamresearch.com/) // Simple, free, fully responsive one-page sites for pretty much anything. *Offers discounts for Students.*
+- [Fantastical](https://flexibits.com/fantastical) // Calendar Application for Mac OS and IPhone.
+- [Grammarly](https://app.grammarly.com/) // Spell Checker, Dictionary, A.I reader.\*  *A true hero for emails.*
 - [Whimsical](https://whimsical.com/) // Flowcharts, Sticky Notes, and Mind Maps that can be used for you or a team.\*
 
 
