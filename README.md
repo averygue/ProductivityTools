@@ -26,6 +26,7 @@ A list of organizational/productivity tools that I've found useful in my student
 - [SimpleNote](https://simplenote.com/) // A easy note-taking app vailable for all platforms.\*
 - [Remember the Milk](https://www.rememberthemilk.com/) // The smart to-do app for busy people.\*
 - [NoteJoy](https://notejoy.com/) // Notejoy is a collaborative notes app for you and your team.\*
+- [Taskade](https://www.taskade.com/) // Tasks, Mind Maps, & Video Chat.\*
 
 
 ## Minimize Distractions
@@ -35,10 +36,14 @@ A list of organizational/productivity tools that I've found useful in my student
 ## Chrome Extensions 
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) // Make your computer run smoothly by suspending the tabs you aren't using.\*
 - [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi?hl=en) // Mercury Reader - Clear away the clutter from all of your articles. Instantly.\*
+- [Block Site](https://chrome.google.com/webstore/detail/block-site-website-blocke/eiimnmioipafcokbfikbljfdeojpcgbh) // Stay focused and improve productivity. Easily block any distracting or harmful websites\*
 
 
 ## Mac Apps
+- [Things](https://culturedcode.com/things/) // Things is the award-winning personal task manager that helps you achieve your goals.
+- [Omnifocus](https://www.omnigroup.com/omnifocus/) // OmniFocus is powerful task management software for busy professionals.
 - [Paste](https://pasteapp.io/) // Stores everything you copy and keeps your clipboard organized across all your devices.\*
+- [2Do](https://www.2doapp.com/) // 2Do was designed to meet your need for speed. Offers app for Android as well.
 
 ## Databases and Document Writing
 - [AirTable](https://airtable.com/) // Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.\*
