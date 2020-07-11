@@ -27,11 +27,12 @@ A list of organizational/productivity tools that I've found useful in my student
 - [Remember the Milk](https://www.rememberthemilk.com/) // The smart to-do app for busy people.\*
 - [NoteJoy](https://notejoy.com/) // Notejoy is a collaborative notes app for you and your team.\*
 - [Taskade](https://www.taskade.com/) // Tasks, Mind Maps, & Video Chat.\*
-
+- [Due](https://www.dueapp.com/) // Never forget anything, ever again.
 
 ## Minimize Distractions
 - [WorkFlowy](https://www.workflowy.com/) // Infinitely nest bullet points.\*
 - [TripMode](https://www.tripmode.ch/) // TripMode helps you save data and money. Use your bandwidth only for what matters to you.\*
+- [Timery](https://timeryapp.com/) // Easy time tracking with Toggl
 
 ## Chrome Extensions 
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) // Make your computer run smoothly by suspending the tabs you aren't using.\*
