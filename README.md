@@ -18,7 +18,8 @@ A list of organizational/productivity tools that I've found useful in my student
 - [Fantastical](https://flexibits.com/fantastical) // Calendar Application for Mac OS and IPhone.
 - [Grammarly](https://app.grammarly.com/) // Spell Checker, Dictionary, A.I reader.\*  *A true hero for emails.*
 - [Whimsical](https://whimsical.com/) // Flowcharts, Sticky Notes, and Mind Maps that can be used for you or a team.\*
-
+- [GitKraken](https://www.gitkraken.com/) // Free Git GUI Client.\*
+- [Termius](https://termius.com/) //
 
 ## ToDo Lists and Notes
 - [Bear](https://bear.app/) // Bear is a beautiful, flexible writing app for crafting notes and prose.\*
@@ -45,6 +46,8 @@ A list of organizational/productivity tools that I've found useful in my student
 - [Omnifocus](https://www.omnigroup.com/omnifocus/) // OmniFocus is powerful task management software for busy professionals.
 - [Paste](https://pasteapp.io/) // Stores everything you copy and keeps your clipboard organized across all your devices.\*
 - [2Do](https://www.2doapp.com/) // 2Do was designed to meet your need for speed. Offers app for Android as well.
+- [Termius](https://termius.com/) //Termius is the SSH client that works on Desktop and Mobile.]\*
+- [HazerOver](https://hazeover.com/)\\Get focused while working on your projects or studying with HazeOver for Mac.\* Free with Github Student Developer Pack
 
 ## Databases and Document Writing
 - [AirTable](https://airtable.com/) // Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.\*
@@ -52,6 +55,8 @@ A list of organizational/productivity tools that I've found useful in my student
 - [Ulysses](https://ulysses.app/) // A pleasant, focused writing experience combined with effective document management, fast syncing and flexible export options.
 - [Pitch](https://pitch.com/) // Collaboratively buildi nd share beautiful presentations
 - [Graphy](https://graphyapp.com/) // A place for your team to create interactive dashboards.
+- [Canva](https://www.canva.com/) // Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, documents and other visual content.\*
+
 
 
 ### \* Denotes Free plan available or Free App
